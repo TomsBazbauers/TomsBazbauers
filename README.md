@@ -3,7 +3,7 @@
 
 :white_medium_square: I'm working hard on building experience in backend development with C# /.NET;
 
-:white_medium_square: Currently focusing on my API, ASP.NET and testing skills;
+:white_medium_square: Currently focusing on my ASP.NET and testing skills;
 
 :mailbox: Reach me at t.bazbauers@gmail.com
 
