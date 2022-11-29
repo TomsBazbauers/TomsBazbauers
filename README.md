@@ -24,8 +24,6 @@
 
 ---
 
-## Selected and recent projects pinned below - feel free to check them out!
-
 
 
 <!--
