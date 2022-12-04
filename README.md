@@ -1,7 +1,7 @@
 ## *Hi!* :wave:
 
 
-:white_medium_square: I'm working hard on building experience in development with *C#/.NET & JS/TS*;
+:white_medium_square: I'm working hard on building experience in development with C#/.NET & JS/TS;
 
 :white_medium_square: Currently focusing on my **web development and software testing skills**;
 
