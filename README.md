@@ -5,8 +5,6 @@
 
 :white_medium_square: Currently focusing on my **web development and software testing skills**;
 
-:mailbox: Reach me at t.bazbauers@gmail.com
-
 ---
 
 ### Languages, Tools & Software
