@@ -11,7 +11,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TS Logo" width="30" height="30"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="30" height="30"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="30" height="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman Logo" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite Logo" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="VStudio Logo" width="30" height="30"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="30" height="30"/> 
