@@ -1,6 +1,3 @@
-## *Hi!* :wave:
-
-:white_medium_square: Currently focusing on my **web development** and **testing skills**
 
 ---
 
